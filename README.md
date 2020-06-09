@@ -1,0 +1,1 @@
+# docker-dynamic-uid-example
